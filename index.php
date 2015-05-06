@@ -1,0 +1,1 @@
+<?php  header( 'Location: http://franklinyu.com/Login.php' ) ;  ?>
